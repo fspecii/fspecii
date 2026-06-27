@@ -2,10 +2,13 @@
 
 # Hey, I'm Vali 👋
 
-### Open-source developer · Web agency founder · Building in public
+### Open-source developer · Web studio founder · Building in public
 
+<a href="https://webdesignstudio.london">
+  <img src="https://img.shields.io/badge/London_Studio-webdesignstudio.london-d4ff00?style=for-the-badge&labelColor=000000" alt="webdesignstudio.london" />
+</a>
 <a href="https://websitefirma.ro">
-  <img src="https://img.shields.io/badge/Web_Agency-websitefirma.ro-d4ff00?style=for-the-badge&labelColor=000000" alt="websitefirma.ro" />
+  <img src="https://img.shields.io/badge/Romanian_Agency-websitefirma.ro-ffffff?style=for-the-badge&labelColor=000000" alt="websitefirma.ro" />
 </a>
 <a href="https://x.com/AmbsdOP">
   <img src="https://img.shields.io/badge/Follow-@AmbsdOP-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X" />
@@ -20,7 +23,8 @@
 
 ## 🚀 What I'm doing
 
-- 🏗️ Running **[websitefirma.ro](https://websitefirma.ro)** — a Romanian multi-stack web agency. We ship websites, web apps, AI integrations and mobile apps for SMBs and startups. Stack of choice depends on the project, not on dogma.
+- 🇬🇧 Running **[Web Design Studio London](https://webdesignstudio.london)** — a specialist web design studio serving London and international clients. Bespoke Next.js websites, ecommerce builds, and AI integrations for businesses that need to rank and convert.
+- 🏗️ Running **[websitefirma.ro](https://websitefirma.ro)** — a Romanian multi-stack web agency. We ship websites, web apps, AI integrations and mobile apps for SMBs and startups in Romania.
 - 🤖 Building **AI tooling for creators** — local-first, Apple Silicon optimized, open source where it makes sense
 - 📹 Sharing the build on **[X](https://x.com/AmbsdOP)** and **[YouTube](https://www.youtube.com/@Ambsd-yy7os)** — tutorials, demos, behind-the-scenes
 - 🧪 Constantly experimenting at the intersection of AI, audio, and creator tools
@@ -83,7 +87,9 @@ Native macOS AI music generator built on ACE-Step + Apple MLX. M1+ only.
 
 ## 💼 Need a website, app, or AI integration?
 
-I run **[websitefirma.ro](https://websitefirma.ro)** — a Romanian web agency that ships:
+**🇬🇧 London & international clients:** I run **[Web Design Studio London](https://webdesignstudio.london)** — a specialist studio building high-performance websites for London businesses and international brands. Next.js, ecommerce, AI integrations, SEO architecture. Projects typically £3,000–£30,000.
+
+**🇷🇴 Romanian clients:** I also run **[websitefirma.ro](https://websitefirma.ro)** — a Romanian web agency that ships:
 
 - 🌐 **Custom websites & web apps** — Next.js, Astro, WordPress, React
 - 🛒 **Online stores** — WooCommerce, Shopify, Next.js + Stripe
@@ -93,8 +99,11 @@ I run **[websitefirma.ro](https://websitefirma.ro)** — a Romanian web agency t
 
 Transparent pricing. Source code delivered. No subscription lock-in.
 
+<a href="https://webdesignstudio.london">
+  <img src="https://img.shields.io/badge/London_Studio-webdesignstudio.london-d4ff00?style=for-the-badge&labelColor=000000" alt="London Studio" />
+</a>
 <a href="https://websitefirma.ro">
-  <img src="https://img.shields.io/badge/Get_a_quote-websitefirma.ro-d4ff00?style=for-the-badge&labelColor=000000" alt="Get a quote" />
+  <img src="https://img.shields.io/badge/Romanian_Agency-websitefirma.ro-ffffff?style=for-the-badge&labelColor=000000" alt="Get a quote" />
 </a>
 
 ---
@@ -132,8 +141,11 @@ Transparent pricing. Source code delivered. No subscription lock-in.
 
 <div align="center">
 
+<a href="https://webdesignstudio.london">
+  <img src="https://img.shields.io/badge/🇬🇧_webdesignstudio.london-London_Studio-d4ff00?style=for-the-badge&labelColor=000000" alt="Web Design Studio London" />
+</a>
 <a href="https://websitefirma.ro">
-  <img src="https://img.shields.io/badge/🌐_websitefirma.ro-Web_Agency-d4ff00?style=for-the-badge&labelColor=000000" alt="Website" />
+  <img src="https://img.shields.io/badge/🌐_websitefirma.ro-Romanian_Agency-ffffff?style=for-the-badge&labelColor=000000" alt="websitefirma.ro" />
 </a>
 <a href="https://x.com/AmbsdOP">
   <img src="https://img.shields.io/badge/X-@AmbsdOP-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X" />
