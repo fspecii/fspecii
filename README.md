@@ -25,6 +25,7 @@
 
 - 🇬🇧 Running **[Web Design Studio London](https://webdesignstudio.london)** — a specialist web design studio serving London and international clients. Bespoke Next.js websites, ecommerce builds, and AI integrations for businesses that need to rank and convert.
 - 🏗️ Running **[websitefirma.ro](https://websitefirma.ro)** — a Romanian multi-stack web agency. We ship websites, web apps, AI integrations and mobile apps for SMBs and startups in Romania.
+- 📰 Building **[MediaBias News](https://mediabias.news)** — a free media bias comparison site. Each story shows what left, centre and right-rated outlets led on, what each side left out, and every outlet that ran it. No account, no paywall.
 - 🤖 Building **AI tooling for creators** — local-first, Apple Silicon optimized, open source where it makes sense
 - 📹 Sharing the build on **[X](https://x.com/AmbsdOP)** and **[YouTube](https://www.youtube.com/@Ambsd-yy7os)** — tutorials, demos, behind-the-scenes
 - 🧪 Constantly experimenting at the intersection of AI, audio, and creator tools
